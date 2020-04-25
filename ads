@@ -38,7 +38,7 @@ https://v1.ygve.com/storage/media/b36a68866835a21d5a5d86efe3643ba0-720.mp4/maste
 #EXTINF:-1 ,TR: Hakan: Muhafız 2. Sezon 8. Bölüm
 https://v1.ygve.com/storage/media/8f674a550adaf40d24eaf6e5c7952866-720.mp4/master.m3u8
 #EXTINF:-1 ,TR: Hakan: Muhafız 3. Sezon 1. Bölüm
-https://s4.rapidrame.com/hls/zojdmxriwuknuemgnzcfuwejq4a43j3rkuwommlxzxoebl6te7l3mzpokgdq/index-v1-a1.m3u8
+https://fileru.net/iframe.php?v=422fbb4b13c90c10d4f1099159bf3033
 #EXTINF:-1 ,TR: Hakan: Muhafız 3. Sezon 2. Bölüm
 https://s4.rapidrame.com/hls/zojdmxziwuknuemgnzcfur4ltixjghrkmwabclvkq673et6epmdmlkvsmlwq/index-v1-a1.m3u8
 #EXTINF:-1 ,TR: Hakan: Muhafız 3. Sezon 3. Bölüm
